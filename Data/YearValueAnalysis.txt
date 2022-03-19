@@ -1,0 +1,8 @@
+Sub AllStocksAnalysis()
+
+Range("A1").Value = "All Stocks (" + yearValue + ")"
+yearValue = InputBox("What year would you like to run the analysis on?")
+Sheets(yearValue).Activate
+End Sub
+
+
