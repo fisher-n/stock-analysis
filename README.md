@@ -8,13 +8,17 @@ The purpose of this analysis is to help a client figure out what green stocks ar
 
 Based on the analysis the results show that 2017 was a better year for investment than 2018. However, stocks ENPH and RUN produced a return for both years. Results of the analysis and runtime for both the original code and refactored code are below:
 2017 GreenStocks original code:
-![This is an image]( https://github.com/fisher-n/stock-analysis/blob/main/Resources/GreenStocksRuntime2017.png
+![This is an image]( https://github.com/fisher-n/stock-analysis/blob/main/Resources/GreenStocksRuntime2017.png)
+
 2017 refactored code
-![This is an image] (https://github.com/fisher-n/stock-analysis/blob/main/Resources/ElapsedRuntime2017.png)
+![This is an image](https://github.com/fisher-n/stock-analysis/blob/main/Resources/ElapsedRuntime2017.png)
+
 2018 original code:
-![This is an image] ( https://github.com/fisher-n/stock-analysis/blob/main/Resources/GreenStocksRuntime2018.png)
+![This is an image]( https://github.com/fisher-n/stock-analysis/blob/main/Resources/GreenStocksRuntime2018.png)
+
 2018 refactored code:
-![This is an image] ( https://github.com/fisher-n/stock-analysis/blob/main/Resources/ElapsedRuntime2018.png)
+![This is an image]( https://github.com/fisher-n/stock-analysis/blob/main/Resources/ElapsedRuntime2018.png)
+
 
 ## Summary
 
